@@ -1,6 +1,6 @@
 # Microbit-con-MicropyhonN
 
-##Utilización innovadora y precisa de los sensores básicos, con integración efectiva en el proyecto.
+## Utilización innovadora y precisa de los sensores básicos, con integración efectiva en el proyecto.
 
 from microbit import *
 lightsOn = False
@@ -14,7 +14,7 @@ while True:
             display.clear()
     sleep(100)
 
-##Implementación creativa y eficiente del uso de la matriz LED con animaciones avanzadas o patrones complejos.
+## Implementación creativa y eficiente del uso de la matriz LED con animaciones avanzadas o patrones complejos.
 
 from microbit import *
 
